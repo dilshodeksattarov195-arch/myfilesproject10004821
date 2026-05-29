@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "notifyfetch",
+        "uuid": 5871978,
+        "checksum": "qzo6ib"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": true,
+        "mode": "staging"
+    }
+}
